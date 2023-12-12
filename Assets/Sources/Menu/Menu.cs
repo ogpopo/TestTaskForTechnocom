@@ -1,5 +1,3 @@
-using UnityEngine;
-
 public class Menu : IModel
 {
     private MainMenuSwitcher _switcher;

@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using UniRx;
 
 [Serializable]
@@ -35,6 +36,8 @@ public class SaveData
     };
 
     public DailyRewardData DailyRewardData = new DailyRewardData();
+
+    public int PlayerLevel => LevelStateDictionary.Where(x => x.Value == LevelState.Open).ToList().Count;
 }
 
 [Serializable]

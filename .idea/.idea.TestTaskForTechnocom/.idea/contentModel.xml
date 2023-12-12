@@ -1543,9 +1543,12 @@
             <e p="zenject.asmdef" t="Include" />
           </e>
         </e>
-        <e p="Prefabs" t="Include" />
+        <e p="Prefabs" t="Include">
+          <e p="Product" t="Include" />
+        </e>
         <e p="Resources" t="Include">
           <e p="BillingMode.json" t="Include" />
+          <e p="IAPProductCatalog.json" t="Include" />
         </e>
         <e p="Scenes" t="Include" />
         <e p="Sources" t="Include">
@@ -1579,6 +1582,12 @@
             <e p="SwitchToggle.cs" t="Include" />
           </e>
           <e p="Configs" t="Include">
+            <e p="Product" t="Include">
+              <e p="LocationProductConfig.cs" t="Include" />
+              <e p="ProductConfig.cs" t="Include" />
+              <e p="SkinsProductConfig.cs" t="Include" />
+              <e p="TicketsChestConfig.cs" t="Include" />
+            </e>
             <e p="WeeklyBonus.cs" t="Include" />
           </e>
           <e p="Daily" t="Include">
@@ -1627,6 +1636,7 @@
             <e p="SettingsView.cs" t="Include" />
           </e>
           <e p="Shop" t="Include">
+            <e p="IAPCore.cs" t="Include" />
             <e p="Product" t="Include">
               <e p="Buyable" t="Include">
                 <e p="SkinsStrategy.cs" t="Include" />
@@ -1634,7 +1644,11 @@
               </e>
               <e p="Product.cs" t="Include" />
               <e p="ProductPresenter.cs" t="Include" />
-              <e p="ProductView.cs" t="Include" />
+              <e p="View" t="Include">
+                <e p="ProductView.cs" t="Include" />
+                <e p="SkinsProductView.cs" t="Include" />
+                <e p="TicketsProductView.cs" t="Include" />
+              </e>
             </e>
             <e p="Shop.cs" t="Include" />
             <e p="ShopInstaller.cs" t="Include" />
@@ -1648,6 +1662,7 @@
             <e p="TicketAccountView.cs" t="Include" />
           </e>
           <e p="Utils" t="Include">
+            <e p="InitializeUGS.cs" t="Include" />
             <e p="Plate.cs" t="Include" />
           </e>
         </e>

@@ -11,87 +11,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44e4b99e-89bd-441c-98ae-17c47bb66e28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Abstract/IBuyable.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Abstract/IBuyable.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Abstract/IReward.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Abstract/IReward.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Abstract/ISoundPlayer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Abstract/ISoundPlayer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/Music/MusicController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/Music/MusicController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/Music/MusicInstaller.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/Music/MusicInstaller.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/Music/MusicPresenter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/Music/MusicPresenter.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/Music/MusicView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/Music/MusicView.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/UI/UISoundController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/UI/UISoundController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/UI/UISoundInstaller.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/UI/UISoundInstaller.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/UI/UISoundPlayer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/UI/UISoundPlayer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/UI/UISoundPresenter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/UI/UISoundPresenter.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/UI/UISoundView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Audio/UI/UISoundView.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Component/SoundButton.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Component/SoundButton.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Daily/Reward.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Daily/Reward.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Daily/RewardPresenter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Daily/RewardPresenter.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Daily/RewardView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Daily/RewardView.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Daily/RewardsFactory.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Daily/RewardsFactory.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Data/SaveDataInstaller.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Data/SaveDataInstaller.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Data/Saver.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Data/Saver.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Levels/Level/Level.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Levels/Level/Level.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Levels/Level/LevelPresenter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Levels/Level/LevelPresenter.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Levels/Level/LevelView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Levels/Level/LevelView.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Levels/Level/LevelsFactory.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Levels/Level/LevelsFactory.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Levels/LevelsInstaller.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Levels/LevelsInstaller.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Levels/LevelsPresenter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Levels/LevelsPresenter.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Levels/LevelsView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Levels/LevelsView.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Settings/SettingInstaller.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Settings/SettingInstaller.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Settings/SettingsPresenter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Settings/SettingsPresenter.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Settings/SettingsView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Settings/SettingsView.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Shop/Product/ProductPresenter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Shop/Product/ProductPresenter.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Shop/Product/ProductView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Shop/Product/ProductView.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Shop/Shop.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Shop/Shop.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Shop/ShopInstaller.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Shop/ShopInstaller.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Shop/ShopPresenter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Shop/ShopPresenter.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Shop/ShopView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Shop/ShopView.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Ticket/TicketAccountInstaller.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Ticket/TicketAccountInstaller.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Ticket/TicketAccountPresenter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Ticket/TicketAccountPresenter.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Ticket/TicketAccountView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Ticket/TicketAccountView.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Utils/Plate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sources/Utils/Plate.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sources/Configs/Product/LocationProductConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sources/Configs/Product/LocationProductConfig.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sources/Configs/Product/SkinsProductConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sources/Configs/Product/SkinsProductConfig.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestTaskForTechnocom/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestTaskForTechnocom/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestTaskForTechnocom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestTaskForTechnocom/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Product.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Product.prefab.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sources/Abstract/IBuyable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Abstract/IBuyable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sources/Data/SaveData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Data/SaveData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sources/Menu/Menu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Menu/Menu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sources/Shop/Product/Buyable/SkinsStrategy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Shop/Product/Buyable/SkinsStrategy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sources/Shop/Product/Buyable/TicketsStrategy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Shop/Product/Buyable/TicketsStrategy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sources/Shop/Product/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Shop/Product/Product.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sources/Shop/Product/ProductPresenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Shop/Product/ProductPresenter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sources/Shop/Product/ProductView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sources/Shop/Product/ProductView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sources/Shop/Shop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Shop/Shop.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sources/Shop/ShopInstaller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sources/Shop/ShopInstaller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,40 +46,37 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Sources/Menu/MenuInstaller.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Sources/Configs/WeeklyBonus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@4.10.0/Runtime/Codeless/CodelessIAPStoreListener.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Sources/Abstract/IPopup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105DA115-9EC9-496A-B931-0694C7B11DD2/70/51954fd1/IObserver`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Sources/Menu/MenuView.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F712B1DC-50B4-4683-88B9-C5F95D0D0EAF/a7/f8e6eec7/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Sources/Ticket/TicketAccount.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Sources/Daily/Rewarder/CollectScreen.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Sources/Component/SwitchToggle.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105DA115-9EC9-496A-B931-0694C7B11DD2/c8/92cb36ed/Object.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Sources/Data/SaveData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@4.10.0/Runtime/Codeless/BaseIAPButton.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Sources/Levels/LevelSelector.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Sources/Menu/MenuPresenter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Sources/Shop/Product/Product.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules/BaseInput.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9BEE05B5-5FF5-45C4-9BD4-AC3E18EFE4F2/fa/b3023764/DataAdapter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Sources/Shop/Product/Buyable/TicketsStrategy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Sources/Settings/Settings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Menu/MenuInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Configs/WeeklyBonus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Configs/Product/TicketsChestConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Configs/Product/ProductConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Menu/MenuView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Component/SwitchToggle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/IAPCore.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105DA115-9EC9-496A-B931-0694C7B11DD2/c8/92cb36ed/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Data/SaveData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Shop/Product/View/SkinsProductView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Menu/MenuPresenter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Shop/IAPCore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules/BaseInput.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sources/Utils/InitializeUGS.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Sources/Daily/Audio/Music/MusicPlayer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Abstract/ISoundPlayer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Audio/Music/MusicPlayer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Audio/Music/PlayerView.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Audio/Music/MusicPresenter.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Audio/Music/MusicView.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Audio/Music/MusicInstaller.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Component/SwithToggle.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Component/SwitchToggle.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Data/Saver.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Settings/SettingsView.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Audio/UI/UISoundPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Audio/Music/MusicController.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Audio/UI/UISoundPresenter.cs" />
@@ -146,7 +87,6 @@
         <option value="$PROJECT_DIR$/Assets/Sources/Audio/UI/UISoundController.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Menu/MenuView.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Menu/MenuPresenter.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Menu/Menu.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Menu/MenuInstaller.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Settings/Settings.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Settings/SettingsPresenter.cs" />
@@ -159,23 +99,35 @@
         <option value="$PROJECT_DIR$/Assets/Sources/Levels/Level/LevelView.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Levels/Level/LevelPresenter.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Levels/Level/Level.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Data/SaveData.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Ticket/TicketAccountInstaller.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Daily/Rewarder/DailyRewarder.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/MainMenuSwitcher/MainMenuSwitcher.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Abstract/IBuyable.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Product/Buyable/TicketsStrategy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Product/ProductPresenter.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Product/Product.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Product/Buyable/SkinsStrategy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Shop/ShopInstaller.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Product/ProductView.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Daily/Rewarder/DailyPresenter.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Shop/ShopView.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Shop/ShopPresenter.cs" />
-        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Shop.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Ticket/TicketAccount.cs" />
         <option value="$PROJECT_DIR$/Assets/Sources/Ticket/TicketAccountPresenter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Menu/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Configs/Product/ProductConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Data/SaveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Product/ProductView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Product/View/TicketsView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Product/Product.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Abstract/IBuyable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Product/ProductPresenter.cs" />
+        <option value="$USER_HOME$/Downloads/IAPCore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Configs/Product/TicketsChestConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Product/Buyable/TicketsStrategy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Shop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Utils/InitializeUGS.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Product/View/TicketsProductView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Shop/IAPCore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Product/View/SkinsProductView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Product/Buyable/SkinsStrategy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Shop/Product/View/ProductView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Shop/ShopInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Configs/Product/SkinsProductConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Configs/Product/LocationProductConfig.cs" />
       </list>
     </option>
   </component>
@@ -210,10 +162,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="8548">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="8548" />
+      <option name="pid" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -234,6 +186,10 @@
       <workItem from="1702020089007" duration="11585000" />
       <workItem from="1702110804104" duration="10088000" />
       <workItem from="1702181971474" duration="39696000" />
+      <workItem from="1702644548050" duration="1289000" />
+      <workItem from="1702300312265" duration="26000" />
+      <workItem from="1702300389245" duration="6432000" />
+      <workItem from="1702350644447" duration="11091000" />
     </task>
     <servers />
   </component>
@@ -326,25 +282,25 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1877" height="371" key="GridCell.Tab.3.right/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1702579111081" />
-    <state x="794" y="217" key="RiderGenerateDialog" timestamp="1702232494900">
+    <state x="794" y="217" key="RiderGenerateDialog" timestamp="1702365520049">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="794" y="217" key="RiderGenerateDialog/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1702232494900" />
+    <state x="794" y="217" key="RiderGenerateDialog/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1702365520049" />
     <state x="461" y="161" key="SettingsEditor" timestamp="1702033268102">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="461" y="161" key="SettingsEditor/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1702033268102" />
-    <state x="2073" y="-12" width="1432" height="1019" maximized="true" key="dock-window-1" timestamp="1702319565921">
+    <state x="1602" y="-11" width="1918" height="1030" key="dock-window-1" timestamp="1702367764370">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
-    <state x="2073" y="-12" width="1432" height="1019" maximized="true" key="dock-window-1/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1702319565921" />
+    <state x="1602" y="-11" width="1918" height="1030" key="dock-window-1/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1702367764370" />
     <state x="616" y="238" key="run.anything.popup" timestamp="1702227481897">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="616" y="238" key="run.anything.popup/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1702227481897" />
-    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1702212182544">
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1702306641903">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1702212182544" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1702306641903" />
   </component>
 </project>
